@@ -17,6 +17,16 @@ header {
 h1 {
   font-size: 80px;
 }
+.icon-button {
+  background-color: pink;
+  padding: 5px 7px;
+  border: none;
+  border-radius: 3px;
+}
+a {
+  color: black;
+  text-decoration: none;
+}
 
 .box-format {
   background-color: white;
