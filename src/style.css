@@ -1,0 +1,53 @@
+body {
+  background: linear-gradient(
+    179.4deg,
+    rgb(253, 240, 233) 2.2%,
+    rgb(255, 194, 203) 96.2%
+  );
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  color: rgb(255, 194, 203);
+  max-width: 750px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+}
+h1 {
+  font-size: 80px;
+}
+
+.box-format {
+  background-color: white;
+  max-width: 750px;
+  margin: 30px auto;
+  padding: 20px;
+  border-radius: 10px;
+}
+#about-me {
+  display: flex;
+}
+#about-me-text {
+  width: 600px;
+}
+img {
+  width: 245px;
+  border-radius: 8px;
+}
+
+#career {
+  display: flex;
+}
+.employer {
+  font-style: italic;
+}
+.educational-institut {
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  font-family: monospace;
+  opacity: 0.8;
+}
